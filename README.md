@@ -1,6 +1,7 @@
-ALUNO: Athos da Silva Pinto Azevedo
-Professor: Moises Lima Santos
-Disciplina: Frontend
+#
+ALUNO: Athos da Silva Pinto Azevedo.
+Professor: Moises Lima Santos.
+Disciplina: Frontend.
 
 # Lista de Tarefas
 
