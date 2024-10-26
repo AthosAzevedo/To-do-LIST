@@ -1,3 +1,7 @@
+ALUNO: Athos da Silva Pinto Azevedo
+Professor: Moises Lima Santos
+Disciplina: Frontend
+
 # Lista de Tarefas
 
 ## Descrição
@@ -11,6 +15,4 @@ Este projeto é uma aplicação simples de lista de tarefas, permitindo aos usu�
 - **Remover Tarefas**: O usuário pode remover tarefas de ambas as listas.
 - **Editar Tarefas**: O usuário pode editar o conteúdo de uma tarefa existente.
 - **Persistência de Dados**: As tarefas são salvas no `localStorage`, garantindo que as informações permaneçam disponíveis após atualizar a página.
-
-## Estrutura do Projeto
 
